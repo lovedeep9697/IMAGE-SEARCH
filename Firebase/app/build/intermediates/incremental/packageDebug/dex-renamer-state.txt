@@ -1,0 +1,7 @@
+#Sat Feb 18 15:29:59 IST 2017
+base.0=G\:\\college\\Firebase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_51e4de4279a1ef68999fafda96bbd4dda99ff8d6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\college\\Firebase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_565d37c4bf2e1b7014ece66a789a19a751401c90\\classes.dex
+base.1=G\:\\college\\Firebase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_565d37c4bf2e1b7014ece66a789a19a751401c90
+file.0=G\:\\college\\Firebase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_51e4de4279a1ef68999fafda96bbd4dda99ff8d6\\classes.dex

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "571633240537",
+    "firebase_url": "https://primeval-truth-156619.firebaseio.com",
+    "project_id": "primeval-truth-156619",
+    "storage_bucket": "primeval-truth-156619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571633240537:android:9efcd5f62cc0970b",
+        "android_client_info": {
+          "package_name": "com.example.rishab.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571633240537-22u9tled2m6g54vol8c58gsp582ak8ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rishab.firebase",
+            "certificate_hash": "98F84D5C8A2CB76F4408AC61D02CBCDDCB1937C4"
+          }
+        },
+        {
+          "client_id": "571633240537-d5t0npmnjrrnhati6gva65qfar4sb01k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD2hlZ1DxuToAHYhnujvfT-GfNiJPk7dk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571633240537-d5t0npmnjrrnhati6gva65qfar4sb01k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
